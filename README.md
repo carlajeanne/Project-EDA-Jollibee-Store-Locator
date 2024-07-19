@@ -6,20 +6,20 @@ Jollibee is a go-to fast-food chain and a staple for most Filipinos. They offer 
 This Project focuses on the retail food industry, specifically the fast-food sector in the Philippines. This laboratory will include analyzing data from Jollibee store locations and the services they offer to introduce opportunities for people that wanted to venture in franchising a Jollibee store.
 
 ### `jollibee_table`
--storeId 
--storeName 
--franchiseNm 
--City 
--State 
--Latitude 
--Longitude 
--deliveryCharge 
--Alias 
--X24hours 
--driveThru 
--delivery 
--breakfast 
--pickup 
+-storeId  
+-storeName  
+-franchiseNm  
+-City  
+-State  
+-Latitude  
+-Longitude  
+-deliveryCharge  
+-Alias  
+-X24hours  
+-driveThru  
+-delivery  
+-breakfast  
+-pickup  
 
 
 
@@ -27,6 +27,6 @@ This Project focuses on the retail food industry, specifically the fast-food sec
 Explore the `jollibee_table` data and analyze the store location data, determining which locations have a high population density and low Jollibee store presence which will open an opportunity for new stores
 
 ## Questions 
--Which city has the most Jollibee branch within the NCR?
--Which branch of Jollibee is open 24 hours within the NCR?
--Which branch of Jollibee has a drive thru within the NCR?
+-Which city has the most Jollibee branch within the NCR?  
+-Which branch of Jollibee is open 24 hours within the NCR?  
+-Which branch of Jollibee has a drive thru within the NCR?  
